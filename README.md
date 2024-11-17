@@ -2,9 +2,7 @@
 - 👀 I’m interested in web development and exploring new technologies 
 - 🌱 I’m currently learning problem solving 
 - 💞️ I’m looking to collaborate on MNC
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 vishali20/vishali20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
